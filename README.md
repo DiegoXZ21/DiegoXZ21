@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 :computer: **Técnico en desarrollo de Software**
+
 :student: **Estudiante de Ingeniería en Sistemas Computacionales**
+
 :movie: **Fan de las peliculas**
 
 ### Vias de contacto
