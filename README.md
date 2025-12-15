@@ -4,7 +4,7 @@
 
 :student: **Estudiante de Ingeniería en Sistemas Computacionales**
 
-:movie: **Fan de las peliculas**
+:movies: **Fan de las peliculas**
 
 ### Vias de contacto
 ![Static Badge](https://img.shields.io/badge/www.linkedin.com%2Fin%2Fdiego-guerrero-8368491a1?style=for-the-badge)
