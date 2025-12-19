@@ -10,5 +10,5 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DiegoXZ21/DiegoXZ21?style=for-the-badge)
 
 ### :zap: Actividad reciente
-<!--RECENT_ACTICITY:activity-->
-<!--RECENT_ACTIVITY:activity-->
+<!--RECENT_ACTICITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
